@@ -1,10 +1,10 @@
 name: task_app
 description: App Akademie Task App
-publish_to: 'none'
+publish_to: "none"
 version: 0.1.0
 
 environment:
-  sdk: '>=3.1.0 <4.0.0'
+  sdk: ">=3.1.0 <4.0.0"
 
 dependencies:
   cached_network_image: ^3.2.3
@@ -30,6 +30,22 @@ dev_dependencies:
   flutter_lints: ^2.0.1
 
 flutter:
+  fonts:
+    - family: Long
+      fonts:
+        - asset: assets/fonts/LongCang-Regular.ttf
+    - family: Rubik
+      fonts:
+        - asset: assets/fonts/RubikGlitch-Regular.ttf
+    - family: Maps
+      fonts:
+        - asset: assets/fonts/RubikMaps-Regular.ttf
+    - family: Scribble
+      fonts:
+        - asset: assets/fonts/RubikScribble-Regular.ttf
+    - family: Bungee
+      fonts:
+        - asset: assets/fonts/BungeeSpice-Regular.ttf
   uses-material-design: true
 
   assets:
