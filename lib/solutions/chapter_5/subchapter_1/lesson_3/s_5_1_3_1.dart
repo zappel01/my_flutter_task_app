@@ -9,19 +9,22 @@ class S5131 extends StatelessWidget {
         children: [
           Text(
             'Hello App Akademie',
-            style: TextStyle(fontFamily: 'Long', fontSize: 20),
+            style: TextStyle(fontFamily: 'Long', fontSize: 30),
           ),
+          SizedBox(height: 16),
           Text(
             'Hello App Akademie',
-            style: TextStyle(fontFamily: 'Rubik', fontSize: 20),
+            style: TextStyle(fontFamily: 'Rubik', fontSize: 30),
           ),
+          SizedBox(height: 16),
           Text(
             'Hello App Akademie',
-            style: TextStyle(fontFamily: 'Maps', fontSize: 20),
+            style: TextStyle(fontFamily: 'Maps', fontSize: 30),
           ),
+          SizedBox(height: 16),
           Text(
             'Hello App Akademie',
-            style: TextStyle(fontFamily: 'Bungee', fontSize: 20),
+            style: TextStyle(fontFamily: 'Bungee', fontSize: 30),
           ),
         ],
       ),
