@@ -113,11 +113,11 @@ const List<Task> chapter5TaskList = [
   ),
   Task(
     taskModel: t_5_3_1_1,
-    // solution: S5311(),
+    solution: S5311(),
   ),
   Task(
     taskModel: t_5_3_1_2,
-    // solution: S5312(),
+    solution: S5312(),
   ),
   Task(
     taskModel: t_5_3_1_3,
@@ -129,7 +129,7 @@ const List<Task> chapter5TaskList = [
   ),
   Task(
     taskModel: t_5_3_2_2,
-    // solution: S5322(),
+    solution: S5322(),
   ),
   Task(
     taskModel: t_5_3_2_3,
@@ -141,7 +141,7 @@ const List<Task> chapter5TaskList = [
   ),
   Task(
     taskModel: t_5_3_3_1,
-    // solution: S5331(),
+    solution: S5331(),
   ),
   Task(
     taskModel: t_5_3_3_2,
@@ -149,7 +149,7 @@ const List<Task> chapter5TaskList = [
   ),
   Task(
     taskModel: t_5_4_1_1,
-    // solution: S5411(),
+    solution: S5411(),
   ),
   Task(
     taskModel: t_5_4_2_1,
@@ -161,7 +161,7 @@ const List<Task> chapter5TaskList = [
   ),
   Task(
     taskModel: t_5_5_1_1,
-    // solution: S5511(),
+    solution: S5511(),
   ),
   Task(
     taskModel: t_5_5_2_1,

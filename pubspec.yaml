@@ -21,6 +21,7 @@ dependencies:
   rive: ^0.12.3
   shared_preferences: ^2.2.2
   shimmer: ^3.0.0
+  photo_manager: ^3.0.0-dev.4
 dev_dependencies:
   flutter_test:
     sdk: flutter

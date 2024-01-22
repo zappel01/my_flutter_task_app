@@ -29,7 +29,7 @@ class StylishContainer extends StatelessWidget {
             color: Colors.red.withOpacity(0.7), // Farbe des Schattens
             spreadRadius: 5,
             blurRadius: 7,
-            offset: const Offset(0, 4), // Änderung der Schattenposition
+            offset: const Offset(5, 5), // Änderung der Schattenposition
           ),
         ],
       ),
